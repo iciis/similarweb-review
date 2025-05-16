@@ -195,7 +195,7 @@ From SEO and PPC tracking to market research and benchmarking, Similarweb handle
 Whether you’re tracking performance or analyzing competitors, it simplifies complex data into actionable strategies. It’s definitely worth considering if you’re looking to gain a competitive edge.
 
 <a href="https://afftrend.com/similarweb"> 
-<img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
+<img src="https://drive.google.com/uc?export=view&id=1l5pL-NmRd4ipfP11-OQX4lmD0iqkEa_z" alt="Learn More"> 
 </a>
 
 ## **Product User Reviews**
