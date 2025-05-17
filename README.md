@@ -10,6 +10,10 @@ So, **let’s explore what Similarweb has to offer** and whether it’s the righ
 
 ## **Similarweb Overview**
 
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=/1wL_YrD_FzFO0dIamD4qkq8XP2km25fmy"  alt="Similarweb Homepgage">
+</a>
+
 | **Feature** | **Description** | **Benefit** |
 | --- | --- | --- |
 | **Website Traffic Data** | Provides insights into website visits, page views, bounce rates, and engagement metrics. | Helps understand overall website performance and areas for improvement. |
@@ -31,36 +35,54 @@ With its easy-to-use interface and in-depth insights, **Similarweb** is a tool y
 <img src="https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
 </a>
 
-## **Product Features**
-
-**Similarweb Features**
+## **Similarweb Features**
 
 1. **App Competitor Analysis**
-    
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1wKdoc65hFxsLSx6qihJ2cjeWZdCb9BeE"  alt="Similarweb Competitor Analysis">
+</a>
+
      Helps businesses monitor app performance against competitors by analyzing installs, active users, and retention. This enables brands to benchmark success, uncover trends, and 
      adjust strategies to outperform rivals in the highly competitive mobile app marketplace.
     
-2. **Mobile Market Trends**
+1. **Mobile Market Trends**
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1njPVWsInRkbMs7pgigDnxkbF9qUJZOrn"  alt="Similarweb Mobile Market Trends">
+</a>
     
      Offers insights into mobile app industry patterns across various regions and categories. Businesses can track usage growth, app store rankings, and user engagement trends to 
      identify rising apps, market shifts, and strategic investment opportunities.
     
-3. **App Technographics (SDK)**
-    
+2. **App Technographics (SDK)**
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1g14BMIk7J2gQDB3kNrylXe4z8M06aSkj"  alt="Similarweb App Technographics">
+</a>
+
      Analyzes the software development kits (SDKs) installed in mobile apps. Brands can use this intelligence to understand competitors’ technology stacks, identify partnerships, and 
      find leads based on tech compatibility or usage trends.
     
-4. **App Rating & Reviews**
-   
+2. **App Rating & Reviews**
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=19y-qWIzr1iw3kiAOB3gcIQI5su92XKKD"  alt="Similarweb App Ratings & Reviews">
+</a>
+
      Aggregates user reviews and ratings across app stores to reveal sentiment trends, user satisfaction levels, and product issues. This feature helps brands monitor reputation, refine 
      product features, and prioritize updates based on real feedback.
     
-5. **App Usage Analytics**
+2. **App Usage Analytics**
    
      Tracks detailed user behavior within apps, including session length, screen views, and engagement patterns. It helps brands measure user stickiness, identify drop-off points, and 
      enhance app experience for better retention and growth.
     
-6. **App Demographics & Interests**
+3. **App Demographics & Interests**
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1qAyz6uOwETJ2K7v070tXcOn9d1Z4rpXF"  alt="Similarweb App Demographics">
+</a>
     
      Reveals user demographic data such as age, gender, and interest areas. It enables personalized marketing by identifying who uses the app and what they care about, supporting better 
      audience targeting and product positioning.
@@ -72,6 +94,10 @@ With its easy-to-use interface and in-depth insights, **Similarweb** is a tool y
 </a>
 
 ## **Pricing of Similarweb**
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=15EGAv8OW868fQ3jXCB3i44L1XxwaUaSn"  alt="Similarweb Pricing">
+</a>
 
 | **Plan Name** | **Price** | **Users** | **Historical Data** | **Keyword Limits** | **Key Features** |
 | --- | --- | --- | --- | --- | --- |
