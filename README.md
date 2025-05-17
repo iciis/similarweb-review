@@ -116,7 +116,7 @@ Similarweb offers a range of subscription plans tailored to marketers, researche
 
 **Step 1: Visit Similarweb**
 
-- Go to www.similarweb.com. No sign-up is needed for basic insights—but creating a free account gives you more access.
+- Go to www.similarweb.com. Creatine a free account gives you more access.
 
 **Step 2: Enter a Website URL**
 
