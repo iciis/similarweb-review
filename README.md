@@ -35,7 +35,7 @@ With its easy-to-use interface and in-depth insights, **Similarweb** is a tool y
 <img src="https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
 </a>
 
-## **Similarweb Features**
+## **Similarweb Features 2025**
 
 1. **App Competitor Analysis**
 
